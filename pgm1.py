@@ -1,4 +1,3 @@
-
 a=int(input("enter starting year:"))
 b=int(input("enter ending year: "))
 if a>b:
