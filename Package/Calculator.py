@@ -1,0 +1,11 @@
+from package.calcs import*
+num1=int(input("Enter first number:"))
+num2=int(input("enter second number:"))
+add=addition(num1,num2)
+sub=substract(num1,num2)
+mul=multiplication(num1,num2)
+div=division(num1,num2)
+print("Add:",add)
+print("difference:",sub)
+print("Product:",mul)
+print("Quotient:",div)
