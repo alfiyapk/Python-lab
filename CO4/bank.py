@@ -33,7 +33,7 @@ class Bank:
         print("Balance:", self.balance)
 
 
-b1 = Bank(1002, "Nidhi", "Savings", 0)
+b1 = Bank(1002, "Alfiya P K", "Savings", 0)
 b1.display()
 
 while True:
